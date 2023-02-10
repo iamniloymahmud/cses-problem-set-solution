@@ -1,7 +1,7 @@
 # CSES Problem Set Solutions
 ![](https://cses.fi/logo.png?1)
 ---
-This is my repo of CSES problem that I have solved. All the problems are written in C++. Hope this Helps the programming community.
+This is my repo of CSES problem that I have solved. All the problems are written in C++. Hope this helps the programming community.
 
 ***
 
